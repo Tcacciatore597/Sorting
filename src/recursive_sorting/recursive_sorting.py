@@ -4,7 +4,10 @@ def merge( arrA, arrB ):
     merged_arr = [0] * elements
     # TO-DO
     #compare each element in arrA to each element in arrB.
- 
+    #loop through arrays
+    # if element in A < element in B
+    #append element to merged arr.
+    #increment index of A
     #take the lower element and append it to merged_arr
     return merged_arr
 
